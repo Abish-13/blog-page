@@ -6,7 +6,7 @@ This is a foundational front-end project that creates a clean, responsive, and p
 
 This project is a strong portfolio piece as it demonstrates the ability to build one of the most common web page layouts using semantic HTML for structure and modern CSS for styling and responsiveness.
 
-**[➡️ View the Live Demo Here]()**
+**[➡️ View the Live Demo Here](https://abish-13.github.io/blog-page/)**
 
 
 
